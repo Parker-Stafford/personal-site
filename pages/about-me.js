@@ -22,11 +22,7 @@ export default function Home() {
         mprovements being made and it makes engineering fresh and exciting. Outside of softw
         are engineering, I recently spent three years living and working in Japan. It was an
         amazing experience in which I grew and learned a ton everyday. I like sports, beer,
-        video games, and spending time with friends and family. I think the approach you have
-        taken at Tavour is really unique. I love the idea of both helping craft brewers and p
-        roviding awesome beer for consumers who normally wouldn’t be able to get it. I think
-        that my personal values and drive would be a great fit at Tavour! I look forward to
-        hearing from you all.
+        video games, and spending time with friends and family.
       </p>
       <Link href="/resume.pdf">Resume</Link>
       <Link href="/">Home</Link>
