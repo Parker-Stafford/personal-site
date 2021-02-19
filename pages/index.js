@@ -9,7 +9,7 @@ export default function Home() {
         <title>Parker Stafford</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>Hello</h1>
+      <h1>Hello World</h1>
       <h3>I&apos;m Parker!</h3>
       <p>I&apos;m a software engineer in Washington State.</p>
       <Link href="/resume.pdf">Resume</Link>
