@@ -13,10 +13,10 @@ export default function Home() {
       <h3>Hello World!</h3>
       <h4>I&apos;m Parker!</h4>
       <h4>I&apos;m a software engineer, brother, philosopher, son, scientist, beer drinker,
-        video game player, pet lover, and continuous learner.
+        video game player, pet lover, traveler, and continuous learner.
       </h4>
       <p>
-        I&apos;m probably a lot of other things too, but that&apos;s what came to mind initially.
+        I&apos;m probably some other things too, but that&apos;s what came to mind initially.
       </p>
       <p>
         Something I’ve always been passionate about is solving interesting, complex problems
@@ -30,12 +30,12 @@ export default function Home() {
         being made and it makes engineering fresh and exciting.
       </p>
       <p>
-        Outside of software engineering, I still love to read and talk about both philosophy and
-        neuroscience. I recently spent three years living and working in Japan.
+        Outside of software engineering, I&apos;ve worked a number of different jobs.
+        I recently spent three years living and working in Japan.
         It was an amazing experience in which I grew and learned a ton everyday.
       </p>
       <p>
-        Send me an email or a message on LinkedIn I&apos;d love to chat!
+        Send me an email or a message on LinkedIn, I&apos;d love to chat!
       </p>
       <Link href="/resume.pdf">Resume</Link>
       <Link href="/">Home</Link>
